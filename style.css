@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     box-sizing: border-box;
     margin: 0;
@@ -60,7 +61,7 @@ padding-right: 40px;
     color: var(--Dark-Navy, #303B59);
     text-align: right;
     font-feature-settings: 'liga' off, 'clig' off;
-    padding-left: 107px;
+    padding-left: 95px;
     align-items: center;
     justify-content: center;
 }
@@ -100,7 +101,7 @@ padding-right: 40px;
      color: var(--Dark-Navy, #303B59);
      text-align: right;
      font-feature-settings: 'liga' off, 'clig' off;
-     padding-left: 103px;
+     padding-left: 95px;
     align-items: center;
     justify-content: center;
 
@@ -143,7 +144,7 @@ padding-right: 40px;
     color: var(--Dark-Navy, #303B59);
     text-align: right;
     font-feature-settings: 'liga' off, 'clig' off; 
-    padding-left: 118px; 
+    padding-left: 105px; 
     align-items: center;
     justify-content: center;
 }
@@ -185,7 +186,7 @@ padding-right: 40px;
     color: var(--Dark-Navy, #303B59);
     text-align: right;
     font-feature-settings: 'liga' off, 'clig' off;  
-    padding-left: 114px;
+    padding-left: 110px;
     align-items: center;
     justify-content: center;
 }
